@@ -3,7 +3,7 @@ null bangalore workshop - how to step into IoT penetration testing
 
 
 
-## Setup the Lab -- Download the OS from the below link 
+## Setup the Lab -- Download the OVA file from the below link 
 
 - username : nullblr
 - password : iot
