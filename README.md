@@ -12,7 +12,17 @@ null bangalore workshop - how to step into IoT penetration testing
 ## write the approach to pentest device 
 
 - Network pentesting on devices
+
 - Embedded application
+
 - Bluetooth pentesting
+    - gattacker 
+    ![Start Gattacker](Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
+    
+    - btlejuice 
+    - bettercap 
+    - 
+  
 - Firmware Revere engineering
+
 - Hardware Exploitation
