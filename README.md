@@ -16,9 +16,9 @@ null bangalore workshop - how to step into IoT penetration testing
 - Embedded application
 
 - Bluetooth pentesting
-    - gattacker 
-      starting gattacker
-      
+    - gattacker
+  
+      Runnig Gattacker
     ![Start Gattacker](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
       Runnig Gattacker
