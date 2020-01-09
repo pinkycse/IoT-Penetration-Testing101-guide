@@ -17,8 +17,12 @@ null bangalore workshop - how to step into IoT penetration testing
 
 - Bluetooth pentesting
     - gattacker 
+      starting gattacker
+      
     ![Start Gattacker](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
+      Runnig Gattacker
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     - btlejuice 
     - bettercap 
     - 
