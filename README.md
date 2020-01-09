@@ -7,7 +7,7 @@ null bangalore workshop - how to step into IoT penetration testing
 
 - username : nullblr
 - password : iot
-- <https://drive.google.com/open?id=1w71WhAvlkGpS3WR7ZQn2aeU_UEY0Bicr>
+- <https://drive.google.com/open?id=1NHf8Yr17ZZX8gd-gGeytWVddVAh0OVVZ>
 
 ## write the approach to pentest device 
 
