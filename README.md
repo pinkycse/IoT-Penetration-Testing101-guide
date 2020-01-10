@@ -30,8 +30,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - btlejuice-proxy (in vm)
         - btlejuice -u <ip address> -w (host linux)
         - localhost:8080 (in any webb browser)
-    
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/tree/master/null/btlejuice)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
     
     - bettercap 
     - 
