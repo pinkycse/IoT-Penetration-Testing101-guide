@@ -33,6 +33,16 @@ null bangalore workshop - how to step into IoT penetration testing
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
     
     - bettercap 
+        - #bettercap
+        - ble.recon on (recon the devices)
+        - ble.recon off (stopr the recon)
+        - ble.show (to see all scanned devices surrounded by us)
+        - ble enum (bd addr)
+        ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
+           
+        
+        - sudo bettercap -caplet https-ui (for web ui)
+        ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
     - 
   
 - Firmware Revere engineering
