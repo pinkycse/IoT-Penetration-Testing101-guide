@@ -1,5 +1,5 @@
 
-### Software tools and hardware requirements:
+ Software tools and hardware requirements:
 
 	| Firmware Reverse engineering:     |
 	| --------------- | --------------- |
@@ -14,20 +14,26 @@
 
 
 	  
-Firmware emulating:
-	    1.FAT tool
-            2.Qemu 
-	    3.qiling
-	    4.Firmadyne
+
+	| Firmware emulating:		    |
+	| --------------- | --------------- |
+	| FAT tool        | Not Required    |
+	| Qemu            | Not Required    |
+	| qiling          | Not Required    |
+	| Firmadyne       | Not Required    |
+
 	
-Bluetooth:
-	    1.Gattacker
-	    2.Bluez
-	    3.bettercap
-	    4.btlejuice
-	    5.nrfconnect
-	    6.sniffle
+
+	| Bluetooth:		             |
+	| ---------------  | --------------- |
+	| Gattacker        | CSR 4.0         |
+	| Bluez            | CSR 4.0         |
+	| bettercap        | CSR 4.0         |
+	| btlejuice        | CSR 4.0         |
+	| nrfconnect       | NRF52840        |
+	| sniffle          | TI CC1352R      |
 	
-Hardware:
-	    1.flashrom
-	    2.openocd
+	|Hardware:
+	| -----------------------------------|
+	| 1.flashrom                         |
+	| 2.openocd                          |
