@@ -3,14 +3,14 @@
 
 	| Firmware Reverse engineering:     |
 	| --------------- | --------------- |
-	| binwalk         | Content Cell    |
-	| firmwalker      | Content Cell    |
-	| FACT-core       | Content Cell    |
-	| radare2         | Content Cell    |
-	| capstone        | Content Cell    |
-	| angr            | Content Cell    |
-	| flawfinder      | Content Cell    |
-	| firmware modkit | Content Cell    |
+	| binwalk         | Not Required    |
+	| firmwalker      | Not Required    |
+	| FACT-core       | Not Required    |
+	| radare2         | Not Required    |
+	| capstone        | Not Required    |
+	| angr            | Not Required    |
+	| flawfinder      | Not Required    |
+	| firmware modkit | Not Required    |
 
 
 	  
