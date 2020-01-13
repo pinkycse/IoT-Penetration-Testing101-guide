@@ -18,15 +18,18 @@ null bangalore workshop - how to step into IoT penetration testing
    <https://www.owasp.org/index.php/OWASP_Embedded_Application_Security>
     
 ### Bluetooth pentesting
-    - gattacker
+   
+   - gattacker
   
-      Runnig Gattacker
-    ![Start Gattacker](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
+  Runnig Gattacker
+  
+  ![Start Gattacker](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
-      Runnig Gattacker
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
+  Runnig Gattacker
+  
+  ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
-    - btlejuice 
+   - btlejuice 
     
         - Running btlejuice
         - btlejuice-proxy (in vm)
@@ -34,7 +37,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - localhost:8080 (in any webb browser)
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
     
-    - bettercap 
+   - bettercap 
         - #bettercap
         - ble.recon on (recon the devices)
         - ble.recon off (stopr the recon)
@@ -49,10 +52,10 @@ null bangalore workshop - how to step into IoT penetration testing
   
 ### Firmware Revere engineering
     
-         - FACT Tool (Firmware analysis comparison toolkti)
+   - FACT Tool (Firmware analysis comparison toolkti)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
-         - FACT UI (after running script ui wioll load at https://127.0.0.1:5000)
+   - FACT UI (after running script ui wioll load at https://127.0.0.1:5000)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
