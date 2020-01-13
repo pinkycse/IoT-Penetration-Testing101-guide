@@ -14,7 +14,9 @@ null bangalore workshop - how to step into IoT penetration testing
 - Network pentesting on devices
 
 - Embedded application
-
+   
+   <https://www.owasp.org/index.php/OWASP_Embedded_Application_Security>
+    
 - Bluetooth pentesting
     - gattacker
   
