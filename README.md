@@ -11,13 +11,13 @@ null bangalore workshop - how to step into IoT penetration testing
 
 ## write your own way approach to pentest device 
 
-###- Network pentesting on devices###
+### Network pentesting on devices
 
-###- Embedded application###
+### Embedded application
    
    <https://www.owasp.org/index.php/OWASP_Embedded_Application_Security>
     
-###- Bluetooth pentesting###
+### Bluetooth pentesting
     - gattacker
   
       Runnig Gattacker
@@ -47,7 +47,7 @@ null bangalore workshop - how to step into IoT penetration testing
         ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
     - 
   
-###- Firmware Revere engineering###
+### Firmware Revere engineering
     
          - FACT Tool (Firmware analysis comparison toolkti)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
@@ -56,4 +56,4 @@ null bangalore workshop - how to step into IoT penetration testing
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
-###- Hardware Exploitation###
+### Hardware Exploitation
