@@ -1,8 +1,8 @@
 Firmware Reverse engineering:
 	    1.binwalk
 	    2.firmwalker
-  	  3.FACT-core
-    	4.radare2
+  	    3.FACT-core
+    	    4.radare2
 	    5.capstone
 	    6.angr
 	    7.flawfinder
@@ -10,7 +10,7 @@ Firmware Reverse engineering:
 	  
 Firmware emulating:
 	    1.FAT tool
-      2.Qemu 
+            2.Qemu 
 	    3.qiling
 	    4.Firmadyne
 	
