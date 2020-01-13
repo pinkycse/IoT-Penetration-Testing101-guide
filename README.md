@@ -48,5 +48,7 @@ null bangalore workshop - how to step into IoT penetration testing
     - 
   
 - Firmware Revere engineering
-
+      -FACT Tool (Firmware analysis comparison toolkti)
+      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
+      
 - Hardware Exploitation
