@@ -19,15 +19,13 @@ null bangalore workshop - how to step into IoT penetration testing
     
 ### Bluetooth pentesting
    
-   - gattacker
+  - Gattacker
   
-  Runnig Gattacker
-  
-  ![Start Gattacker](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
+  - Runnig Gattacker
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
-  Runnig Gattacker
-  
-  ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
+  - Runnig Gattacker
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
    - btlejuice 
     
@@ -46,16 +44,16 @@ null bangalore workshop - how to step into IoT penetration testing
         ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
            
         
-        - sudo bettercap -caplet https-ui (for web ui)
-        ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
-    - 
+   - sudo bettercap -caplet https-ui (for web ui)
+     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
+  
   
 ### Firmware Revere engineering
     
    - FACT Tool (Firmware analysis comparison toolkti)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
-   - FACT UI (after running script ui wioll load at https://127.0.0.1:5000)
+   - FACT UI (after running script ui will load at https://127.0.0.1:5000)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
