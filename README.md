@@ -107,3 +107,15 @@ null bangalore workshop - how to step into IoT penetration testing
          
       
 ### Hardware Exploitation
+
+
+### Exploit Frameworks 
+	
+   __expliot framework__
+   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
+   
+   __IoTSecFuzz__ 
+   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
+   
+   __Routersploit__
+   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
