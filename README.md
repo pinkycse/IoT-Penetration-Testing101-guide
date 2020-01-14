@@ -94,7 +94,7 @@ null bangalore workshop - how to step into IoT penetration testing
            
         
    - ___sudo bettercap -caplet https-ui (for web ui)___
-   <img src="https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png" width="100" height="100" />
+   ![]<img src="https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png" width="100" height="100" />
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
