@@ -1,7 +1,12 @@
 # Null-Bangalore-IoT-Security-101-workshop
 null bangalore workshop - how to step into IoT penetration testing  
 
-
+ ## Software tools and hardware requirements:
+ 
+|IoT Penetration testing Framework 
+| ----------------------------------|
+| 1.IoTSecFuzz			               |
+| 2.Exploit Framework               |
 
 ## Setup the Lab -- Download the OVA file from the below link 
 
