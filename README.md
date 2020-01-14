@@ -7,6 +7,7 @@ null bangalore workshop - how to step into IoT penetration testing
 | --------------------------------------|
 | 1.IoTSecFuzz			        |
 | 2.Exploit Framework                   |
+| 3.Routersploit			|
 
 
 | __Firmware Reverse engineering:__     |
