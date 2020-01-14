@@ -23,7 +23,7 @@ null bangalore workshop - how to step into IoT penetration testing
  
 
 | Firmware emulating:		|
-| -------------------------- ---|
+| ------------------------------|
 | FAT tool             		|
 | Qemu             		|	
 | qiling         		|
