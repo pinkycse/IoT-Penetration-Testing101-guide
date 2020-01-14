@@ -3,13 +3,13 @@ null bangalore workshop - how to step into IoT penetration testing
 
  ## Software tools and hardware requirements:
  
-|IoT Penetration testing Framework  |
-| ----------------------------------|
-| 1.IoTSecFuzz			    |
-| 2.Exploit Framework               |
+|__IoT Penetration testing Framework__  |
+| --------------------------------------|
+| 1.IoTSecFuzz			        |
+| 2.Exploit Framework                   |
 
 
-| Firmware Reverse engineering:     |
+| __Firmware Reverse engineering:__ |
 | ----------------------------------|
 | 1. binwalk                        |
 | 2. firmwalker                     |
@@ -22,7 +22,7 @@ null bangalore workshop - how to step into IoT penetration testing
 | 9. r2ghidra-dec                   |
  
 
-| Firmware emulating:		|
+| __Firmware emulating:__	|
 | ------------------------------|
 | 1. FAT tool                   |
 | 2. Qemu             		|	
@@ -30,22 +30,24 @@ null bangalore workshop - how to step into IoT penetration testing
 | 4. Firmadyne        		|
 
 
+/***
+| __BluetoothTool__ | __Hardware Requirements__ | 
+|-------------------|---------------------------|
+| Gattacker         | CSR 4.0                   | 
+| Bluez             | CSR 4.0                   | 
+| bettercap         | CSR 4.0                   |
+| btlejuice         | CSR 4.0                   |
+| nrfconnect        | NRF52840                  |
+| sniffle           | TI CC1352R                |
+***/
 
-| Bluetooth:	               |
-|------------------------------|
-| Gattacker      CSR 4.0       |
-| Bluez          CSR 4.0       |
-| bettercap      CSR 4.0       |
-| btlejuice      CSR 4.0       |
-| nrfconnect     NRF52840      |
-| sniffle        TI CC1352R    |
 	
-|Hardware:	    |
+|__Hardware:__	    |
 | ------------------|
 | 1.flashrom        |
 | 2.openocd         |
 	
-|Apk Analyzers:
+|__Apk Analyzers:__ |
 | ------------------|
 | 1.MobSF           |
 | 2.QARK            |
