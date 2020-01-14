@@ -30,16 +30,16 @@ null bangalore workshop - how to step into IoT penetration testing
 | 4. Firmadyne        		|
 
 
-/***
+
 | __BluetoothTool__ | __Hardware Requirements__ | 
-|-------------------|---------------------------|
+| -------------------|---------------------------|
 | Gattacker         | CSR 4.0                   | 
 | Bluez             | CSR 4.0                   | 
 | bettercap         | CSR 4.0                   |
 | btlejuice         | CSR 4.0                   |
 | nrfconnect        | NRF52840                  |
 | sniffle           | TI CC1352R                |
-***/
+
 
 	
 |__Hardware:__	    |
