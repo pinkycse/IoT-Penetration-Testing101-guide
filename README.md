@@ -3,30 +3,33 @@ null bangalore workshop - how to step into IoT penetration testing
 
  ## Software tools and hardware requirements:
  
-|IoT Penetration testing Framework 
+|IoT Penetration testing Framework  |
 | ----------------------------------|
-| 1.IoTSecFuzz			               |
+| 1.IoTSecFuzz			    |
 | 2.Exploit Framework               |
 
+
 | Firmware Reverse engineering:     |
-| --------------- | --------------- |
-| binwalk         | Not Required    |
-| firmwalker      | Not Required    |
-| FACT-core       | Not Required    |
-| radare2         | Not Required    |
-| capstone        | Not Required    |
-| angr            | Not Required    |
-| flawfinder      | Not Required    |
-| firmware modkit | Not Required    |
-| r2ghidra-dec    | Not Required    |
+| ----------------------------------|
+| binwalk                           |
+| firmwalker                        |
+| FACT-core                         |
+| radare2                           |
+| capstone                          |
+| angr                              |
+| flawfinder                        |
+| firmware modkit                   |
+| r2ghidra-dec                      |
  
 
 | Firmware emulating:		|
-| ------------- | ------------- |
-| FAT tool      | Not Required  |
-| Qemu          | Not Require   |
-| qiling        | Not Required  |
-| Firmadyne     | Not Required  |
+| -------------------------- ---|
+| FAT tool             		|
+| Qemu             		|	
+| qiling         		|
+| Firmadyne        		|
+
+
 
 | Bluetooth:	         	|
 | --------------| --------------|
@@ -37,15 +40,15 @@ null bangalore workshop - how to step into IoT penetration testing
 | nrfconnect    | NRF52840      |
 | sniffle       | TI CC1352R    |
 	
-|Hardware:
-| -----------------------------------|
-| 1.flashrom                         |
-| 2.openocd                          |
+|Hardware:	    |
+| ------------------|
+| 1.flashrom        |
+| 2.openocd         |
 	
 |Apk Analyzers:
-| -----------------------------------|
-| 1.MobSF                            |
-| 2.QARK                             |
+| ------------------|
+| 1.MobSF           |
+| 2.QARK            |
 
 ## Setup the Lab -- Download the OVA file from the below link 
 
