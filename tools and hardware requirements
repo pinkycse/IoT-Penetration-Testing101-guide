@@ -11,6 +11,7 @@
 	| angr            | Not Required    |
 	| flawfinder      | Not Required    |
 	| firmware modkit | Not Required    |
+	| r2ghidra-dec    | Not Required    |
 
 
 	  
