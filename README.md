@@ -8,6 +8,45 @@ null bangalore workshop - how to step into IoT penetration testing
 | 1.IoTSecFuzz			               |
 | 2.Exploit Framework               |
 
+| Firmware Reverse engineering:     |
+| --------------- | --------------- |
+| binwalk         | Not Required    |
+| firmwalker      | Not Required    |
+| FACT-core       | Not Required    |
+| radare2         | Not Required    |
+| capstone        | Not Required    |
+| angr            | Not Required    |
+| flawfinder      | Not Required    |
+| firmware modkit | Not Required    |
+| r2ghidra-dec    | Not Required    |
+ 
+
+| Firmware emulating:		    |
+| --------------- | --------------- |
+| FAT tool        | Not Required    |
+| Qemu            | Not Required    |
+| qiling          | Not Required    |
+| Firmadyne       | Not Required    |
+
+| Bluetooth:		             |
+| --------------- | --------------- |
+| Gattacker       | CSR 4.0         |
+| Bluez           | CSR 4.0         |
+| bettercap       | CSR 4.0         |
+| btlejuice       | CSR 4.0         |
+| nrfconnect      | NRF52840        |
+| sniffle         | TI CC1352R      |
+	
+|Hardware:
+| -----------------------------------|
+| 1.flashrom                         |
+| 2.openocd                          |
+	
+|Apk Analyzers:
+| -----------------------------------|
+| 1.MobSF                            |
+| 2.QARK                             |
+
 ## Setup the Lab -- Download the OVA file from the below link 
 
 - username : nullblr
