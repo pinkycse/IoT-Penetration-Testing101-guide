@@ -1,4 +1,4 @@
-# Null-Bangalore-IoT-Security-101-workshop
+# IoT-Penetration-Testing101-Guide
 null bangalore workshop - how to step into IoT penetration testing  
 
  ## Software tools and hardware requirements:
