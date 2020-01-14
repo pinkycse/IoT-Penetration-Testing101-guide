@@ -11,34 +11,34 @@ null bangalore workshop - how to step into IoT penetration testing
 
 | Firmware Reverse engineering:     |
 | ----------------------------------|
-| binwalk                           |
-| firmwalker                        |
-| FACT-core                         |
-| radare2                           |
-| capstone                          |
-| angr                              |
-| flawfinder                        |
-| firmware modkit                   |
-| r2ghidra-dec                      |
+| 1. binwalk                        |
+| 2. firmwalker                     |
+| 3. FACT-core                      |
+| 4. radare2                        |
+| 5. capstone                       |
+| 6. angr                           |
+| 7. flawfinder                     |
+| 8. firmware modkit                |
+| 9. r2ghidra-dec                   |
  
 
 | Firmware emulating:		|
 | ------------------------------|
-| FAT tool             		|
-| Qemu             		|	
-| qiling         		|
-| Firmadyne        		|
+| 1. FAT tool                   |
+| 2. Qemu             		|	
+| 3. Qiling         		|
+| 4. Firmadyne        		|
 
 
 
-| Bluetooth:	         	|
-| --------------| --------------|
-| Gattacker     | CSR 4.0       |
-| Bluez         | CSR 4.0       |
-| bettercap     | CSR 4.0       |
-| btlejuice     | CSR 4.0       |
-| nrfconnect    | NRF52840      |
-| sniffle       | TI CC1352R    |
+| Bluetooth:	               |
+| --------------|--------------|
+| Gattacker     | CSR 4.0      |
+| Bluez         | CSR 4.0      |
+| bettercap     | CSR 4.0      |
+| btlejuice     | CSR 4.0      |
+| nrfconnect    | NRF52840     |
+| sniffle       | TI CC1352R   |
 	
 |Hardware:	    |
 | ------------------|
