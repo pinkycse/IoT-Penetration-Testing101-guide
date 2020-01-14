@@ -70,13 +70,13 @@ null bangalore workshop - how to step into IoT penetration testing
    
   - Gattacker
   
-  - Runnig Gattacker
+  - ___Runnig Gattacker
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
-  - Runnig Gattacker
+  - ___Runnig Gattacker
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
-   - btlejuice 
+   - ___btlejuice 
     
         - Running btlejuice
         - btlejuice-proxy (in vm)
@@ -84,7 +84,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - localhost:8080 (in any webb browser)
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
     
-   - bettercap 
+   - ___bettercap 
         - #bettercap
         - ble.recon on (recon the devices)
         - ble.recon off (stopr the recon)
@@ -93,16 +93,16 @@ null bangalore workshop - how to step into IoT penetration testing
         ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
            
         
-   - sudo bettercap -caplet https-ui (for web ui)
+   - ___sudo bettercap -caplet https-ui (for web ui)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
 ### Firmware Revere engineering
     
-   - FACT Tool (Firmware analysis comparison toolkti)
+   - ___FACT Tool (Firmware analysis comparison toolkti)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
-   - FACT UI (after running script ui will load at https://127.0.0.1:5000)
+   - ___FACT UI (after running script ui will load at https://127.0.0.1:5000)
      ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
