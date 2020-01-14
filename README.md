@@ -32,7 +32,7 @@ null bangalore workshop - how to step into IoT penetration testing
 
 
 | Bluetooth:	                |
-| ------------- |:-------------:|
+|---------------|---------------|
 | Gattacker     | CSR 4.0       |
 | Bluez         | CSR 4.0       |
 | bettercap     | CSR 4.0       |
