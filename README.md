@@ -1,6 +1,6 @@
 # IoT-Penetration-Testing101-Guide
 null bangalore workshop - how to step into IoT penetration testing  
-
+----------------------------------------------------------------------------------------------------------------------
  ## Software tools and hardware requirements:
  
 |__IoT Penetration testing Framework__  |
@@ -58,7 +58,8 @@ null bangalore workshop - how to step into IoT penetration testing
 - password : iot
 - <https://drive.google.com/open?id=1NHf8Yr17ZZX8gd-gGeytWVddVAh0OVVZ>
 
-## write your own way approach to pentest device 
+## *write your own way approach to pentest device
+--------------------------------------------------------------------------------------------------------------------------
 
 ### Network pentesting on devices
 
