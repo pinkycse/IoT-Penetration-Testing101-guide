@@ -71,7 +71,7 @@ null bangalore workshop - how to step into IoT penetration testing
   - Gattacker
   
   - ___Runnig Gattacker___
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG =100x20)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG&s=200)
     
   - ___Runnig Gattacker___
     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG =100x20)
@@ -82,7 +82,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - btlejuice-proxy (in vm)
         - btlejuice -u (ip address) -w (host linux)
         - localhost:8080 (in any webb browser)
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png =100x20)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png =)
     
    - ___bettercap___
         - #bettercap
