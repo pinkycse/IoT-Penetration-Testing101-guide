@@ -9,17 +9,17 @@ null bangalore workshop - how to step into IoT penetration testing
 | 2.Exploit Framework                   |
 
 
-| __Firmware Reverse engineering:__ |
-| ----------------------------------|
-| 1. binwalk                        |
-| 2. firmwalker                     |
-| 3. FACT-core                      |
-| 4. radare2                        |
-| 5. capstone                       |
-| 6. angr                           |
-| 7. flawfinder                     |
-| 8. firmware modkit                |
-| 9. r2ghidra-dec                   |
+| __Firmware Reverse engineering:__     |
+| --------------------------------------|
+| 1. binwalk                            |
+| 2. firmwalker                         |
+| 3. FACT-core                          |
+| 4. radare2                            |
+| 5. capstone                           |
+| 6. angr                               |
+| 7. flawfinder                         |
+| 8. firmware modkit                    |
+| 9. r2ghidra-dec                       |
  
 
 | __Firmware emulating:__	|
@@ -71,10 +71,10 @@ null bangalore workshop - how to step into IoT penetration testing
   - Gattacker
   
   - ___Runnig Gattacker___
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG =100x20)
     
   - ___Runnig Gattacker___
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG =100x20)
     
    - ___btlejuice___
     
@@ -82,7 +82,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - btlejuice-proxy (in vm)
         - btlejuice -u (ip address) -w (host linux)
         - localhost:8080 (in any webb browser)
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
+    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png =100x20)
     
    - ___bettercap___
         - #bettercap
@@ -118,4 +118,4 @@ null bangalore workshop - how to step into IoT penetration testing
    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
    
    ___Routersploit___
-   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
+   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG =100x20)
