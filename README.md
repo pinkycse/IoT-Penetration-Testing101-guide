@@ -21,21 +21,21 @@ null bangalore workshop - how to step into IoT penetration testing
 | r2ghidra-dec    | Not Required    |
  
 
-| Firmware emulating:		    |
-| --------------- | --------------- |
-| FAT tool        | Not Required    |
-| Qemu            | Not Required    |
-| qiling          | Not Required    |
-| Firmadyne       | Not Required    |
+| Firmware emulating:		|
+| ------------- | ------------- |
+| FAT tool      | Not Required  |
+| Qemu          | Not Require   |
+| qiling        | Not Required  |
+| Firmadyne     | Not Required  |
 
-| Bluetooth:		             |
-| ---------------  | --------------- |
-| Gattacker        | CSR 4.0         |
-| Bluez            | CSR 4.0         |
-| bettercap        | CSR 4.0         |
-| btlejuice        | CSR 4.0         |
-| nrfconnect       | NRF52840        |
-| sniffle          | TI CC1352R      |
+| Bluetooth:	         	|
+| --------------| --------------|
+| Gattacker     | CSR 4.0       |
+| Bluez         | CSR 4.0       |
+| bettercap     | CSR 4.0       |
+| btlejuice     | CSR 4.0       |
+| nrfconnect    | NRF52840      |
+| sniffle       | TI CC1352R    |
 	
 |Hardware:
 | -----------------------------------|
