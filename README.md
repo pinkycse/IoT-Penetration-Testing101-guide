@@ -74,7 +74,7 @@ null bangalore workshop - how to step into IoT penetration testing
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
   - ___Runnig Gattacker___
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG =100x20)
+    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
    - ___btlejuice___
     
@@ -82,7 +82,7 @@ null bangalore workshop - how to step into IoT penetration testing
         - btlejuice-proxy (in vm)
         - btlejuice -u (ip address) -w (host linux)
         - localhost:8080 (in any webb browser)
-    ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png =)
+     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
     
    - ___bettercap___
         - #bettercap
@@ -90,20 +90,20 @@ null bangalore workshop - how to step into IoT penetration testing
         - ble.recon off (stopr the recon)
         - ble.show (to see all scanned devices surrounded by us)
         - ble enum (bd addr)
-        ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
+      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
            
         
    - ___sudo bettercap -caplet https-ui (for web ui)___
-     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png | width=100 )
+      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
 ### Firmware Revere engineering
     
    - ___FACT Tool (Firmware analysis comparison toolkti)___
-     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
+      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
    - ___FACT UI (after running script ui will load at https://127.0.0.1:5000)___
-     ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
+      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
 ### Hardware Exploitation
@@ -112,10 +112,10 @@ null bangalore workshop - how to step into IoT penetration testing
 ### Exploit Frameworks 
 	
    ___expliot framework___
-   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
+    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
    
    ___IoTSecFuzz___
-   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
+    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
    
    ___Routersploit___
-   ![](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG =100x20)
+    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
