@@ -1,6 +1,12 @@
-
+	
  Software tools and hardware requirements:
 
+	|IoT Penetration testing Framework 
+	| ----------------------------------|
+	| 1.IoTSecFuzz			    |
+	| 2.Exploit Framework               |
+	
+	
 	| Firmware Reverse engineering:     |
 	| --------------- | --------------- |
 	| binwalk         | Not Required    |
@@ -44,4 +50,6 @@
 	| 1.MobSF                            |
 	| 2.QARK                             |
 	
+	
+
 	
