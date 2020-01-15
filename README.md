@@ -1,5 +1,5 @@
 # IoT-Penetration-Testing101-Guide
-null bangalore workshop - how to step into IoT penetration testing  
+How to step into IoT penetration testing  
 ----------------------------------------------------------------------------------------------------------------------
  ## Software tools and hardware requirements:
  
