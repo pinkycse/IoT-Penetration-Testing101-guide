@@ -55,8 +55,8 @@ How to step into IoT penetration testing
 
 ## Setup the Lab -- Download the OVA file from the below link 
 
-- username : nullblr
-- password : iot
+- username : iotpentest
+- password : iot@123
 - <https://drive.google.com/open?id=1NHf8Yr17ZZX8gd-gGeytWVddVAh0OVVZ>
 
 ## *write your own way approach to pentest device
