@@ -6,7 +6,7 @@ How to step into IoT penetration testing
 |__IoT Penetration testing Framework__  |
 | --------------------------------------|
 | 1.IoTSecFuzz			        |
-| 2.Exploit Framework                   |
+| 2.Expliot Framework                   |
 | 3.Routersploit			|
 
 
