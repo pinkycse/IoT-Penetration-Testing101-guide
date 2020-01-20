@@ -62,13 +62,13 @@ How to step into IoT penetration testing
 ## *write your own way approach to pentest device
 --------------------------------------------------------------------------------------------------------------------------
 
-### Network pentesting on devices
+### 1. Network pentesting on devices
 
 ### Embedded application
    
    <https://www.owasp.org/index.php/OWASP_Embedded_Application_Security>
     
-### Bluetooth pentesting
+### 2. Bluetooth pentesting
    
   - Gattacker
   
@@ -99,7 +99,7 @@ How to step into IoT penetration testing
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
-### Firmware Revere engineering
+### 3. Firmware Revere engineering
     
    - ___FACT Tool (Firmware analysis comparison toolkti)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
@@ -108,10 +108,10 @@ How to step into IoT penetration testing
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
-### Hardware Exploitation
+### 4. Hardware Exploitation
 
 
-### Exploit Frameworks 
+### 5. Exploit Frameworks 
 	
    ___expliot framework___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
