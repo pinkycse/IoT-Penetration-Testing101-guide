@@ -1,6 +1,6 @@
 ![image](https://github.com/V33RU/IoT-Penetration-Testing101-guide/blob/master/git.PNG)
 
-#--------------------------------------------------------------------------------------------------------------------
+
 # IoT-Penetration-Testing101-Guide
 
 How to step into IoT penetration testing  
