@@ -1,31 +1,4 @@
 
-                                                                                                           
-                                                                                                           
-IIIIIIIIII              TTTTTTTTTTTTTTTTTTTTTTT                 PPPPPPPPPPPPPPPPP   TTTTTTTTTTTTTTTTTTTTTTT
-I::::::::I              T:::::::::::::::::::::T                 P::::::::::::::::P  T:::::::::::::::::::::T
-I::::::::I              T:::::::::::::::::::::T                 P::::::PPPPPP:::::P T:::::::::::::::::::::T
-II::::::II              T:::::TT:::::::TT:::::T                 PP:::::P     P:::::PT:::::TT:::::::TT:::::T
-  I::::I     oooooooooooTTTTTT  T:::::T  TTTTTT                   P::::P     P:::::PTTTTTT  T:::::T  TTTTTT
-  I::::I   oo:::::::::::oo      T:::::T                           P::::P     P:::::P        T:::::T        
-  I::::I  o:::::::::::::::o     T:::::T                           P::::PPPPPP:::::P         T:::::T        
-  I::::I  o:::::ooooo:::::o     T:::::T         ---------------   P:::::::::::::PP          T:::::T        
-  I::::I  o::::o     o::::o     T:::::T         -:::::::::::::-   P::::PPPPPPPPP            T:::::T        
-  I::::I  o::::o     o::::o     T:::::T         ---------------   P::::P                    T:::::T        
-  I::::I  o::::o     o::::o     T:::::T                           P::::P                    T:::::T        
-  I::::I  o::::o     o::::o     T:::::T                           P::::P                    T:::::T        
-II::::::IIo:::::ooooo:::::o   TT:::::::TT                       PP::::::PP                TT:::::::TT      
-I::::::::Io:::::::::::::::o   T:::::::::T                       P::::::::P                T:::::::::T      
-I::::::::I oo:::::::::::oo    T:::::::::T                       P::::::::P                T:::::::::T      
-IIIIIIIIII   ooooooooooo      TTTTTTTTTTT                       PPPPPPPPPP                TTTTTTTTTTT      
-                                                                                                           
-                                                                                                           
-                                                                                                       
-                                                                                                           
-                                                                                                         
-                                                                                                           
-                                                                                                           
-													   
-# --------------------------------------------------------------------------------------------------------------------
 # IoT-Penetration-Testing101-Guide
 
 How to step into IoT penetration testing  
